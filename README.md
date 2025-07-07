@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Glenferdinza 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Python+Addict+🐍;Building+cool+AI+stuff; Let's+break+things+and+learn+faster!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Python+Addict+🐍;Building+cool+AI+stuff;Let's+break+things+and+learn+faster!" />
 </p>
 
 ---
