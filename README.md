@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 Snake Contribution Animation
+### 🐍 Watch my contribution snake eat its way through GitHub!
 
 <div align="center">
   <img src="https://github.com/Glenferdinza/Glenferdinza/raw/output/github-contribution-grid-snake-dark.svg" />
