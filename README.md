@@ -11,8 +11,6 @@
 - 🧠 Passionate about Machine Learning, AI, and Data Analysis  
 - 🔭 Researching Semantic Segmentation (U-Net) & Object Detection (YOLOv9 + DeepSORT)  
 - 🧰 Into backend stuff too: Dockerizing ML models, versioning with DVC, and deploying models  
-- 🪄 Building a YouTube channel to simplify complex ML topics in a chill way  
-
 ---
 
 ### ⚒️ Tech Stack
