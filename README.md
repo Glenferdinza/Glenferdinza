@@ -54,7 +54,6 @@
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtube.com/@yourchannel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/ghisssyaaaa)
 
 ---
