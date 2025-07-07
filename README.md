@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f777fda7-9d6d-455f-8adb-de46c22a856a)<!-- GitHub Profile README.md -->
-
 <h1 align="center">Hi, I'm Glenferdinza 👋</h1>
 
 <p align="center">
