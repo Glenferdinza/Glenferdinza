@@ -42,16 +42,6 @@
 
 ---
 
-### Project Demo (Coming Soon!)
-> Object Detection using YOLOv9 + DeepSORT  
-> Semantic Segmentation of Satellite Images with U-Net  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlMGsagCkYevQ9i/giphy.gif" width="450"/>
-</div>
-
----
-
 ### Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://instagram.com/ghisssyaaaa)
