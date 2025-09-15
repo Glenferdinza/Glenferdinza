@@ -8,12 +8,11 @@
 
 ### About Me
 - Currently studying Information Technology at Yogyakarta State University  
-- Passionate about Machine Learning, AI, and Data Analysis  
-- Researching Semantic Segmentation (U-Net) & Object Detection (YOLOv9 + DeepSORT)  
+- Passionate about Machine Learning, AI, and Web Development
 - Into backend stuff too: Dockerizing ML models, versioning with DVC, and deploying models  
 ---
 
-### ⚒️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -48,5 +47,5 @@
 
 ---
 
-### 🐣 Fun Fact
+### Fun Fact
 > You only need 3 things to train models: patience, GPU, and coffee. Mostly coffee. ☕
